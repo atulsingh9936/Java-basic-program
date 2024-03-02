@@ -8,7 +8,7 @@ public class Factorial_of_a_number {
        /* for( int i=1;i<=num;i++){
             factorial = factorial*i;
         }*/
-        
+
         for( int i=num; i>=1;i--){
             factorial = factorial*i;
         }
