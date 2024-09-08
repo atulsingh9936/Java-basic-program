@@ -1,0 +1,15 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™î„†ıÿÿÿÿJ$0e5b3d86-2bc4-461d-8e51-595bcda7170b
+V
+java:S1220""Move this file to a named package.J$b87d144e-f7e3-452a-a6c7-20733bea9085
+f	java:S106	"+Replace this use of System.out by a logger.(ÁÆõøJ$d821edee-9669-4adc-8b4a-ca6c81035f52
+k	java:S106"+Replace this use of System.out by a logger.(Ç‚°—úÿÿÿÿJ$642d18d1-8c95-44e5-84b0-276f37601559
+f	java:S106"+Replace this use of System.out by a logger.(êß°ûJ$6706bef1-28db-429e-8ffc-80d13b04d2f3
+|	java:S125"<This block of commented-out lines of code should be removed.(°´ÏóûÿÿÿÿJ$07ea7dde-1bc8-4010-9439-77cf5f20c7ce
+w	java:S125"<This block of commented-out lines of code should be removed.(®ÇÁ¬J$16dab980-8e4d-4bdd-af64-c5ae8b797ed0
+w	java:S125"<This block of commented-out lines of code should be removed.(¹¦ÖöJ$d850d119-36e6-4b54-8db6-775afd3f88e1
+…
+java:S3358 "DExtract this nested ternary operation into an independent statement.(Ú…Ø™şÿÿÿÿJ$b1e5a9ef-ee7c-49bf-a791-22aa8770e20d
+…
+java:S3358 "DExtract this nested ternary operation into an independent statement.(Ú…Ø™şÿÿÿÿJ$4bb6fe8e-ccc8-402b-a34b-a1cd339ace0b
+f	java:S106!"+Replace this use of System.out by a logger.(ÚÌáüJ$c8365d1c-5c4a-41b6-992f-4f96d6fbc21a

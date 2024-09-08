@@ -1,0 +1,14 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ü¯¬ÉÿÿÿÿÿJ$fb168d08-8093-4253-b8ce-679977bf9667
+V
+java:S1220""Move this file to a named package.J$f3ce8340-f009-4bc1-9bb6-7ec1b4a6e5c3
+b
+java:S2326"!string is not used in the method.(¡„ô­ÿÿÿÿÿJ$a9d94368-d5b8-4278-a98a-5f12136abba9
+‰	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¡„ô­ÿÿÿÿÿJ$05b58e47-0898-4706-a4c9-80dcdfcb0660
+v	java:S125"<This block of commented-out lines of code should be removed.(úòÚUJ$f75deba2-6356-4601-b9fa-115f7ea8cb64
+w	java:S125"<This block of commented-out lines of code should be removed.(ÂË˜J$084c99b1-71ca-434c-961a-ad38e8ccbcd9
+v	java:S125"<This block of commented-out lines of code should be removed.(ÅvJ$35eabec4-f129-464a-bccc-5feab0867901
+w	java:S125"<This block of commented-out lines of code should be removed.(ùË«àJ$878e0e73-ba7b-4993-9740-2bb85cdde0c7
+k	java:S106"+Replace this use of System.out by a logger.(­…ËÿÿÿÿÿJ$8712aaee-75b4-4268-ba47-fd7dc28b9457
+n
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿJ$d7fd1893-ad8b-4dbd-ba2b-8cee4671ae60

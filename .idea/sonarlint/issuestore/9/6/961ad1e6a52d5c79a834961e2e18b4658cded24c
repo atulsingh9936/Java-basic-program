@@ -1,0 +1,6 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®°Ãÿ8û§Ï‘2J$e7452547-5d65-481a-af75-b3a559cff9ab
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş¬Â8û§Ï‘2J$2b83a53a-f569-4d86-94af-e93096e22813
+o
+java:S1659"'Declare "factorial" on a separate line.(‡‚šİùÿÿÿÿ8¨Ï‘2J$44ea3a1b-e0da-41c1-8f7c-d163b4b777ed
+r	java:S106"+Replace this use of System.out by a logger.(’ÂÉÒşÿÿÿÿ8¨Ï‘2J$b23a8963-070f-47d4-9b00-f31b029e0c5e

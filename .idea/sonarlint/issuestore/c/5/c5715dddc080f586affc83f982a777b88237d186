@@ -1,0 +1,12 @@
+
+j
+java:S1121".Extract the assignment out of this expression.(æ©‘‹J$cc0c9353-9094-43aa-956a-2de9555aefd8
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•³ËûÿÿÿÿJ$5a2b9978-2237-40a6-9630-bbd5850ba427
+V
+java:S1220""Move this file to a named package.J$6055750c-dd34-4ff0-bc60-0ebdedbbe930
+`
+java:S1659"Declare "b" on a separate line.(ûª°áûÿÿÿÿJ$ac5271c7-78f7-4bdd-a016-aaa1f4f7d865
+k	java:S106"+Replace this use of System.out by a logger.(”Ù±ÙùÿÿÿÿJ$50d2e0ba-b4b8-4f59-9b22-2b4d7af7a0e2
+w	java:S125"<This block of commented-out lines of code should be removed.(«ãäÔJ$fe2ad741-ae71-4cf7-8289-27d6e6131a25
+|	java:S125"<This block of commented-out lines of code should be removed.(å³È“üÿÿÿÿJ$9dcf9ce2-ada2-4636-a301-0b137793028e
+f	java:S106""+Replace this use of System.out by a logger.(ËàÒˆJ$ecea9ba7-7668-417e-a104-e35471ed8a0a
