@@ -43,3 +43,13 @@ f
 ,JAVA_PROGRAMS_04_09_2024/Prime_Number_2.java,0\8\080d6f503a92573c881a478f3213e564a4dccc0e
 Y
 )JAVA_PROGRAMS_04_09_2024/Print_table.java,f\a\fae2f0e0bad3651dd9d195e4cf54f17e43d58720
+W
+'JAVA_PROGRAMS_04_09_2024/Leap_year.java,b\9\b9cac08fa4d1af9f79fbff4864be2d6e7e4aa9be
+V
+&JAVA_PROGRAMS_04_09_2024/Fizzbuzz.java,4\1\412b7c6f3c9cefb4b0feee0e942181c5f1672db8
+^
+.JAVA_PROGRAMS_04_09_2024/Grade_calculator.java,6\2\62d65e7d95dfb802178947f89a1f96aff088dfd0
+^
+.JAVA_PROGRAMS_04_09_2024/Reverse_a_number.java,1\0\10bb3703bce307cc34d904049d93ee2c50822916
+_
+/JAVA_PROGRAMS_04_09_2024/Palindrome_number.java,d\9\d9dc62662be7d1a6ca2759e7fcfd1604fa7d26c8
