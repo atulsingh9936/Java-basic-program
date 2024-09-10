@@ -31,8 +31,6 @@ K
 -JAVA_PROGRAMS_04_09_2024/Swap_two_number.java,3\6\36b60e9695b47520f958395e9aec30cb061d1b8b
 q
 AJAVA_PROGRAMS_04_09_2024/swaptwonumbers_withoutthirdvariable.java,7\2\7235728d5fafca65bba0c36e501937517736d85f
-Z
-*JAVA_PROGRAMS_04_09_2024/prime_number.java,2\5\253c0d98f4352a9accd08508efe9e651bd91ad50
 e
 5JAVA_PROGRAMS_04_09_2024/addition_of_two_numbers.java,4\c\4cd2b5ad22256b9faf4944a69d6bb8b1dbb7b1ab
 f
@@ -53,3 +51,5 @@ V
 .JAVA_PROGRAMS_04_09_2024/Reverse_a_number.java,1\0\10bb3703bce307cc34d904049d93ee2c50822916
 _
 /JAVA_PROGRAMS_04_09_2024/Palindrome_number.java,d\9\d9dc62662be7d1a6ca2759e7fcfd1604fa7d26c8
+]
+-JAVA_PROGRAMS_04_09_2024/String_practice.java,8\5\8532806ce859297fa634d8946d3bcbbf7c615686
