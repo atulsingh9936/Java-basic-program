@@ -1,16 +1,20 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úÂÆ8ôšÑ‘2J$b44cecc6-9165-4301-8400-3992808911ab
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é©¼8ôšÑ‘2J$34ed7ea1-2c98-4abd-a5df-57812e581432
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş¬Â8ôšÑ‘2J$322d0d85-fb2f-49ec-aabe-b7bcf3424778
-„
-java:S4973 "<Strings and Boxed types should be compared using "equals()".(ÂÃÑ®ûÿÿÿÿ8ôšÑ‘2J$6d9d959d-7ddb-4492-8d92-fed9f0caa558
-~	java:S125"<This block of commented-out lines of code should be removed.(ªìğû8ôšÑ‘2J$7853935e-f925-41b8-ad84-2f05743cbbc7
-~	java:S125"<This block of commented-out lines of code should be removed.(ªìğû8ôšÑ‘2J$12fcd99b-3ee5-42cc-a878-3e9f696a2f89
-m	java:S106"+Replace this use of System.out by a logger.(“ş£š8ôšÑ‘2J$0ecc8edb-e5c5-45f7-ae96-968b5406708e
-r	java:S106 "+Replace this use of System.out by a logger.(ÂÃÑ®ûÿÿÿÿ8ôšÑ‘2J$f2a6fd92-c12d-48c2-97fc-ff9756b667a3
-m	java:S106!"+Replace this use of System.out by a logger.(ªöˆ8ôšÑ‘2J$be378215-4f0e-4b2d-9e83-367945f95611
-m	java:S106""+Replace this use of System.out by a logger.(‹Òğ8ôšÑ‘2J$4eaf650f-892c-4861-9194-8be424562879
-m	java:S106$"+Replace this use of System.out by a logger.(¶ÜÖ8‹íŞ‘2J$d639d372-1f45-4d63-83af-14e7836dde51
-m	java:S106%"+Replace this use of System.out by a logger.(Øğğ8Ñäè‘2J$f7d01611-f183-42b5-a477-693cd2b4db4c
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úÂÆ8øÀµ¼2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş¬Â8øÀµ¼2
+]
+java:S1854:"@Remove this useless assignment to local variable "modifiedname".(·Æ¾å8ûÀµ¼2
+X	java:S125"<This block of commented-out lines of code should be removed.(ªìğû8ûÀµ¼2
+X	java:S125"<This block of commented-out lines of code should be removed.(ªìğû8ûÀµ¼2
+]	java:S125"<This block of commented-out lines of code should be removed.(‘Âà†úÿÿÿÿ8üÀµ¼2
+X	java:S125("<This block of commented-out lines of code should be removed.(‘ø·³8üÀµ¼2
+X	java:S125."<This block of commented-out lines of code should be removed.(“„¹8üÀµ¼2
+]	java:S1250"<This block of commented-out lines of code should be removed.(‡Àıûÿÿÿÿ8üÀµ¼2
+N
+java:S1481:"1Remove this unused "modifiedname" local variable.(·Æ¾å8üÀµ¼2
+F	java:S106A"+Replace this use of System.out by a logger.(©ÌéC8üÀµ¼2
+]	java:S125;"<This block of commented-out lines of code should be removed.(·ñĞ­şÿÿÿÿ8üÀµ¼2
+F	java:S106B"+Replace this use of System.out by a logger.(¸ÌÌn8ıÀµ¼2
+G	java:S106C"+Replace this use of System.out by a logger.(˜ÔÙÀ8ıÀµ¼2
+L	java:S106D"+Replace this use of System.out by a logger.(‹ºŠøÿÿÿÿ8şÀµ¼2
 Q
-java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8­¸ê‘2
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8şÀµ¼2
