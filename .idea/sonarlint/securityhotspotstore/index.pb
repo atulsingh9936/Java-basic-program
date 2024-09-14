@@ -61,3 +61,5 @@ T
 $JAVA_PROGRAMS_04_09_2024/string.java,d\a\da07df46e38f4e8fac4aecbd8d1ff9256b5ecd0e
 _
 /JAVA_PROGRAMS_04_09_2024/String_practice_2.java,5\a\5a7917e7fdcebc31d89643fd36162b6969ccff3b
+^
+.JAVA_PROGRAMS_04_09_2024/Reverse_a_string.java,a\a\aaca413f7f8e829df07fc881b7c4a575dc35a54c
