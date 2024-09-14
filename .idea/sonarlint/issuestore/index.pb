@@ -63,3 +63,9 @@ _
 /JAVA_PROGRAMS_04_09_2024/String_practice_2.java,5\a\5a7917e7fdcebc31d89643fd36162b6969ccff3b
 ^
 .JAVA_PROGRAMS_04_09_2024/Reverse_a_string.java,a\a\aaca413f7f8e829df07fc881b7c4a575dc35a54c
+e
+5JAVA_PROGRAMS_04_09_2024/CharcterOccurenceString.java,7\1\71a16b2f7df8ea9e6361d842ceafdacc643ce3fc
+U
+%JAVA_PROGRAMS_04_09_2024/If_else.java,6\8\68b09c24829382f6a880a2bf63344d8e3cb99556
+X
+(JAVA_PROGRAMS_04_09_2024/If_else_if.java,8\c\8cfad0d6227105957531cd5e821ac5324c23db18
