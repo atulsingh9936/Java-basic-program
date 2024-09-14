@@ -1,0 +1,9 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…Í‹ì8Œ˜‘Ÿ2J$fa73d8df-a3ca-402c-8b5c-bedefee1c686
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş¬ÂJ$c3eba320-5319-4dcf-9a4e-d551881a6c76
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÈÏÎøÿÿÿÿ8îêœ‘Ÿ2J$608d9109-5068-4c72-812e-40d1cda7a91c
+m	java:S106"+Replace this use of System.out by a logger.(Ö¯§œ8ˆÚš‘Ÿ2J$2554c8a6-b2c9-44da-9b05-f245b9259885
+m	java:S106	"+Replace this use of System.out by a logger.(Û‚öà8ˆÚš‘Ÿ2J$dd961f18-b72a-4e28-a3a8-b42874af5c96
+X	java:S125
+"<This block of commented-out lines of code should be removed.(†İ­Â8Á„‘Ÿ2
+r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ˆÚš‘Ÿ2J$76f8618f-33ed-4abe-b7cf-c95e557c56b6

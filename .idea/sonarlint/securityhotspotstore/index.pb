@@ -81,3 +81,13 @@ e
 5JAVA_PROGRAMS_04_09_2024/Sum_of_n_natural_number.java,2\4\24cea6d7b038fb79907b1dccc4ea06a24a1513e7
 S
 #JAVA_PROGRAMS_04_09_2024/Array.java,8\e\8e7939b7dad74220b71c43bd7fe1a95f42f01aef
+V
+&JAVA_PROGRAMS_04_09_2024/Arrays_2.java,b\c\bc8c1db5ded82aeaab1314383489b18f8666c6be
+^
+.JAVA_PROGRAMS_04_09_2024/Nested_forr_loop.java,7\f\7f6550e3d890d93fa67728a6dd933652f4a13f72
+\
+,JAVA_PROGRAMS_04_09_2024/Pyramid_number.java,b\a\bacd7401711f8059b555642d02d2dce68c097790
+d
+4JAVA_PROGRAMS_04_09_2024/Inverted_pyramid_logic.java,b\6\b650fbe95654232cc21b3cf3f3dcc37cdedc25ab
+W
+'JAVA_PROGRAMS_04_09_2024/Pyramid_2.java,7\5\75ad240f54f2317abb14381412ea5bfabf8fc0fa
