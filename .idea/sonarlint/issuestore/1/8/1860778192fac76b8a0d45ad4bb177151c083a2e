@@ -1,0 +1,15 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿñŠä8¥ˆ©©Ÿ2J$ba5734d2-1e59-46dc-8cf5-e495d45cabbd
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º‡äõÿÿÿÿÿJ$f01a79cb-6948-4e12-8926-daf0981a2006
+r	java:S106	"+Replace this use of System.out by a logger.(Â”­şÿÿÿÿ8á÷­©Ÿ2J$5cdaf02c-e591-4c6c-8e48-dd7f32e5d2fe
+r	java:S106"+Replace this use of System.out by a logger.(ØÒº…üÿÿÿÿ8·Ñ²©Ÿ2J$0c093d4e-a151-4210-bfa5-1c4dabd01b37
+r	java:S106"+Replace this use of System.out by a logger.(ê‹÷Äùÿÿÿÿ8·³©Ÿ2J$8f81c001-2793-4586-8597-b33ce6e556df
+m	java:S106"+Replace this use of System.out by a logger.(µ²Åš8«´©Ÿ2J$8ae6f2c2-6d3c-4961-a158-480a54ba2fb2
+l	java:S106"+Replace this use of System.out by a logger.(•¿÷8Íõµ©Ÿ2J$3548e9cf-714c-40cf-aa6a-db451fc48f36
+r	java:S106"+Replace this use of System.out by a logger.(¼ÚÆıûÿÿÿÿ8á¾¶©Ÿ2J$6087602e-7cc1-4943-823b-d264fea558b8
+r	java:S106"+Replace this use of System.out by a logger.(ğª€Üùÿÿÿÿ8É‰·©Ÿ2J$2d6411b2-5aa1-4224-a720-50fcace70c8e
+m	java:S106 "+Replace this use of System.out by a logger.(—ºæà8—¸©Ÿ2J$a47906a1-8aac-4d26-bcca-a77468666511
+r	java:S106#"+Replace this use of System.out by a logger.(ÔŠÀ¬ùÿÿÿÿ8ŠÈÊ©Ÿ2J$5cc94115-b938-475c-8cc7-e7f731d3ab3e
+m	java:S106%"+Replace this use of System.out by a logger.(¶ô¢ü8ƒÑ©Ÿ2J$bdef814b-d73a-43e1-b489-7bb69c7b33a8
+w
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ê×·©Ÿ2J$4127424f-0316-4941-a188-d7c95bbbacb5
