@@ -1,0 +1,11 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÈÜÃ8ÿ³¾·Ÿ2J$44129512-ae50-432c-9856-8361f431ca70
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½¶”8ÿ³¾·Ÿ2J$ac8f1b1c-5978-45fa-948c-c745bd7207cd
+e
+java:S2189""Correct this loop's end condition.(­ŞÒ¹8…´¾·Ÿ2J$314429fe-87d1-4c0b-93be-d94ee07df8fd
+`
+java:S2252"This loop will never execute.(­ŞÒ¹8…´¾·Ÿ2J$4c958c0c-923d-492a-a65f-40180c7ee7bb
+|
+java:S2251"9"i" is incremented and will never reach "stop condition".(­ŞÒ¹8…´¾·Ÿ2J$b18b23bb-d4f7-4890-a1b6-81f68db5ddaf
+r	java:S106"+Replace this use of System.out by a logger.(‹×˜”úÿÿÿÿ8°Œ¿·Ÿ2J$02fa9b00-a68d-4d2f-812a-ca6b202dd7cd
+m	java:S106"+Replace this use of System.out by a logger.(ºªº“8™÷¿·Ÿ2J$46362e07-8970-4704-8f29-f551de800329
