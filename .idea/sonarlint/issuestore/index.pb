@@ -175,3 +175,13 @@ Z
 *JAVA_PROGRAMS_04_09_2024/loop/Loop_12.java,0\0\001f0ae7d19f8a0e9a0c4d2419e2d69821894dc9
 \
 ,JAVA_PROGRAMS_04_09_2024/loop/Factorial.java,9\6\96d2ab5b14d3c26571a32560a7635cdbde2308ab
+_
+/JAVA_PROGRAMS_04_09_2024/Pattern/Pyramid_1.java,c\c\ccc11777516b5b5a0c34ed9902831426585a57ee
+r
+BJAVA_PROGRAMS_04_09_2024/Pattern/Right_Triangle_start_pattern.java,e\7\e7c676001276ffd9262adf7280a47fb29d20ef6d
+i
+9JAVA_PROGRAMS_04_09_2024/Pattern/Left_angle_traingle.java,e\b\eb967641bb2549e518aab88a1c4b3f9818f1b21e
+_
+/JAVA_PROGRAMS_04_09_2024/Pattern/Pattern_2.java,8\3\839d962205d1ae91ad0f0b598f2951e84c1885cc
+_
+/JAVA_PROGRAMS_04_09_2024/Pattern/Rectangle.java,9\a\9a2006d5dcc8d998b4d462d9dfc89dc0b25ee01c

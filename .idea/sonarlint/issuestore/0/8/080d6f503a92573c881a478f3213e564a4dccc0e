@@ -1,7 +1,7 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊÁ¦êùÿÿÿÿ8¯ÅÔ”2J$c97cbe1a-6d51-4e66-9385-78947c4a3b16
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş¬Â8¯ÅÔ”2J$0ee057ac-a574-475f-9fed-04b459cd13c8
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊÁ¦êùÿÿÿÿ8¯ÅÔ”2J$7870cde6-f50f-41f2-821d-727ce64bb20c
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş¬Â8¯ÅÔ”2J$1ec0071a-a30a-4c3e-8666-fc3566803965
 f
-java:S1659"#Declare "count" on a separate line.(²Ñ†İ8³ÅÔ”2J$e7e9b8f7-9a29-4f55-a810-66a34cabe874
-m	java:S106"+Replace this use of System.out by a logger.(Ã€ª£8³ÅÔ”2J$c98053bb-94c0-4a9a-af93-6bceaa322cb6
-r	java:S106"+Replace this use of System.out by a logger.( ë¦ûÿÿÿÿ8³ÅÔ”2J$a4578d04-4312-4c28-be4a-772dc65c6e78
+java:S1659"#Declare "count" on a separate line.(²Ñ†İ8³ÅÔ”2J$63cd79cc-1467-451f-aa4b-3987fe77442b
+m	java:S106"+Replace this use of System.out by a logger.(Ã€ª£8³ÅÔ”2J$ac5b5be2-5d5e-4d6d-b6ea-bfc94389a82a
+r	java:S106"+Replace this use of System.out by a logger.( ë¦ûÿÿÿÿ8³ÅÔ”2J$9f301085-4bab-414c-825a-29ab2e4afaf9
