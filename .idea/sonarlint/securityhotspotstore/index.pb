@@ -185,3 +185,11 @@ _
 /JAVA_PROGRAMS_04_09_2024/Pattern/Pattern_2.java,8\3\839d962205d1ae91ad0f0b598f2951e84c1885cc
 _
 /JAVA_PROGRAMS_04_09_2024/Pattern/Rectangle.java,9\a\9a2006d5dcc8d998b4d462d9dfc89dc0b25ee01c
+q
+AJAVA_PROGRAMS_04_09_2024/Pattern/Increasing_triangle_pattern.java,1\c\1cea07eda83ce2ddb3c1f6ebc6093d6db6fab3bb
+r
+BJAVA_PROGRAMS_04_09_2024/Pattern/Decreasing_traiangle_pattern.java,f\d\fdd8af0b3ab7a96ffc4e25bc21d8060a69c0960b
+k
+;JAVA_PROGRAMS_04_09_2024/Pattern/Right_sided_traiangle.java,8\9\89cfdbffcc14fe46c657ce2db3d6f98088883655
+s
+CJAVA_PROGRAMS_04_09_2024/Pattern/Right_sided_trainagle_reverse.java,8\b\8bc3c459eee6d44554ce3dc2cdce760f70f76b2b
