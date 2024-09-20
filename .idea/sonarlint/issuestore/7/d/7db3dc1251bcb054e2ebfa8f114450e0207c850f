@@ -1,0 +1,11 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğ¾İ¶8ë½¯ 2J$17afc93d-357d-4484-adfa-deca40ba5540
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ñßÕJ$261342ed-271c-4973-a8e4-4e31f8c19038
+m	java:S106"+Replace this use of System.out by a logger.(×•œ²8¡æ¿¯ 2J$373dfedc-9509-4b93-9613-3176478fdb19
+r	java:S106"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8¡æ¿¯ 2J$20efe697-cd4b-423e-8a75-bc24b708d7cb
+r	java:S106"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8°æ¿¯ 2J$1c82fdc8-1e3e-423e-8c34-64ea7e5b8e6c
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8°æ¿¯ 2J$01a8c92d-84f5-45d0-8051-c08d4c89a15e
+m	java:S106"+Replace this use of System.out by a logger.(×•œ²8î½À¯ 2J$633a44b0-ff7f-4044-8fea-c75be21d00ab
+r	java:S106"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8î½À¯ 2J$c89a5b00-a552-4f53-b376-b6cb26357713
+r	java:S106"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8î½À¯ 2J$4a8e884b-75f0-4fcb-a09a-432986e549cc
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8î½À¯ 2J$97a3d710-2f04-4954-a5d3-265b7de205c8
