@@ -213,3 +213,15 @@ OJAVA_PROGRAMS_04_09_2024/Pattern/Pattern_practice_18_09_2024/cross_pattern.java
 WJAVA_PROGRAMS_04_09_2024/Pattern/Pattern_practice_18_09_2024/Hollow_square_pattern.java,9\6\9612f5c35e23d2aca50bc13d08186db2fc5bfb5b
 ç
 ]JAVA_PROGRAMS_04_09_2024/Pattern/Pattern_practice_18_09_2024/Hollow_Increasing_trainagle.java,a\1\a1adc7871d2ca736509430b844a0920e97dc3b1f
+q
+AJAVA_PROGRAMS_04_09_2024/Pattern/Hollow_Decreasing_Traiangle.java,0\4\041d0a4625c6656e77c9cd252e709c421a4da454
+]
+-JAVA_PROGRAMS_04_09_2024/Pattern/Pyramid.java,5\8\58f7f0a8c31e17e37b31814b79d57de7e7fbadec
+o
+?JAVA_PROGRAMS_04_09_2024/Pattern_21_09_2024/Square_pattern.java,3\3\3309e9f39ef8926621b23694deaedf09d01abeb0
+t
+DJAVA_PROGRAMS_04_09_2024/Pattern_21_09_2024/Increasing_Traingle.java,c\4\c4c1081359fbaa5aa3a172d0848df24d0d088888
+t
+DJAVA_PROGRAMS_04_09_2024/Pattern_21_09_2024/decreasing_Triangle.java,7\2\7234dde8595e9d57203c11478dfcd84678095efb
+v
+FJAVA_PROGRAMS_04_09_2024/Pattern_21_09_2024/Right_sided_traiangle.java,f\3\f3d1dffe9bb17d4978e4ea38c51c489b932c629b
