@@ -277,3 +277,17 @@ u
 EJAVA_PROGRAMS_04_09_2024/Pattern/Charcater_pattern/Coder_pattern.java,b\4\b410c89f7866d3a3909202fdd30d11658c94d8ac
 }
 MJAVA_PROGRAMS_04_09_2024/Pattern/Charcater_pattern/Reverse_coder_pattern.java,d\1\d19b3bdb464bbc0e5fe763419a79dcb3f8f77f8d
+v
+FJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Square_pattern.java,f\3\f32faa959f29a848192b075b54ce8900fd885fd1
+x
+HJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Hollow_Rectangle.java,a\6\a626d05c9d63db8d7c4f53d88113829ba5583c96
+y
+IJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Inverted_Triangle.java,a\c\ac9e110c1be3dc532dc8569e76666e89bd76230b
+t
+DJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Half_Pyramid.java,2\3\2337794d37629eebbbf01b1041c966ad9e91ec80
+v
+FJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Number_pattern.java,2\0\20a4d3ab5182d98144ca37a9a7cae67248121d21
+v
+FJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Floyd_Triangle.java,2\0\20ba33f8b6638c18302663fd81af1a18b2b4fe4b
+t
+DJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Traingle_1_0.java,9\7\9788e93489a5056b839ed873820cf216cd48fbff
