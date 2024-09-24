@@ -291,3 +291,17 @@ v
 FJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Floyd_Triangle.java,2\0\20ba33f8b6638c18302663fd81af1a18b2b4fe4b
 t
 DJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Traingle_1_0.java,9\7\9788e93489a5056b839ed873820cf216cd48fbff
+q
+AJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Butterfly.java,f\5\f500f67aa2841b213ffa5d3ddc8e9affec1c73df
+o
+?JAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Rhombus.java,6\7\67a58d96f3a949a3baca6348692e3e4fd08e60d8
+v
+FJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Number_pyramid.java,1\0\10cd7dc7104dcddbf58ad95b063e39f4d90943eb
+z
+JJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Palindrome_pyramid.java,9\7\97a0bb71aa5267a19b19c807f72b6e1e4ef5ed27
+o
+?JAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Diamond.java,a\4\a48a28850aa834b7e2602c162cdea44b469ceda4
+s
+CJAVA_PROGRAMS_04_09_2024/Apna_college_Practice_set/Left_pascal.java,1\5\15c7c7010a73a5e75c4b2ba2f73c97ecc1662d6f
+…
+UJAVA_PROGRAMS_04_09_2024/smart_programming_paractice_sets/Right_anagle_traiangle.java,e\0\e0471638f2fde43d59e234860b2e8d28fb886403

@@ -1,0 +1,14 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«¯ñşÿÿÿÿ8©İªŸ2J$ceb7afe9-605e-4ced-9acb-2dcd0cfa4f8c
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶îºışÿÿÿÿ8©İªŸ2J$a4029bdd-d586-48eb-b522-515c156a7e4b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º‡äõÿÿÿÿÿ8©İªŸ2J$6f48338b-58e7-48fd-84d4-ea1e888f3b5f
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "vowel" 5 times.(ÁñÆ™8ÒßªŸ2J$ec4992d2-5d1a-416a-aa63-0a8eab3ad339
+l	java:S106"+Replace this use of System.out by a logger.(¾ÜØ"8ªİªŸ2J$84f7d500-716e-4d61-a282-a3a0ed3a9732
+r	java:S106"+Replace this use of System.out by a logger.(×°Ş›ÿÿÿÿÿ8ªİªŸ2J$2253ff5c-0dac-417b-af24-b8c634fb08fc
+m	java:S106"+Replace this use of System.out by a logger.(ÁñÆ™8ğçİªŸ2J$4244ee13-da77-4639-997c-8b8278c39364
+m	java:S106"+Replace this use of System.out by a logger.(ÁñÆ™8ºĞŞªŸ2J$b6631aee-200c-401f-a929-f6272cf305ee
+m	java:S106"+Replace this use of System.out by a logger.(ÁñÆ™8ØßªŸ2J$2f0b7ed5-4205-4f7f-b954-3cab8b092395
+m	java:S106"+Replace this use of System.out by a logger.(ÁñÆ™8ìÔßªŸ2J$e4d98c4d-f656-4eb8-a015-d72ec09678ac
+m	java:S106"+Replace this use of System.out by a logger.(ÁñÆ™8ìÔßªŸ2J$99ed0948-4eec-44fd-ace7-69d8b6c1c3b0
+r	java:S106!"+Replace this use of System.out by a logger.(¾½Ò˜ıÿÿÿÿ8şéáªŸ2J$08c51c5d-2693-47c6-93a7-7e936455c318

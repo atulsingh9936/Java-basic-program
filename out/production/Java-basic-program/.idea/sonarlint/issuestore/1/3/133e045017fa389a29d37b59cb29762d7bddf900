@@ -1,0 +1,25 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²¼È›ùÿÿÿÿ8¾â«Ÿ2J$285b7d7c-3a01-47f0-8992-c4c8d981b9de
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º‡äõÿÿÿÿÿ8¾â«Ÿ2J$98d860c5-dd8d-4c6e-a865-998073ecc171
+p	java:S108")Either remove or fill this block of code.(á×Ëşÿÿÿÿ8¾â«Ÿ2J$fab17c0d-1a74-40e9-a368-481c5ae394a5
+“
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(á×Ëşÿÿÿÿ8¾â«Ÿ2J$cd2458d0-6d33-4048-9656-fd384e68f436
+i	java:S131""Add a default case to this switch.(á×Ëşÿÿÿÿ8¾â«Ÿ2J$a6afd245-ae54-4c6e-a993-45b0755e6a48
+p	java:S108")Either remove or fill this block of code.(Œ¹ÿÿÿÿÿ8¾â«Ÿ2J$9082d8ab-9a9c-4e9f-9f44-9d39f915b030
+“
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Œ¹ÿÿÿÿÿ8¾â«Ÿ2J$d636503a-995d-455b-babc-6413dc2a0941
+i	java:S131""Add a default case to this switch.(Œ¹ÿÿÿÿÿ8¾â«Ÿ2J$8fca452c-0eb7-4877-b04d-6dec3646342d
+p	java:S108")Either remove or fill this block of code.(Ş””Ûüÿÿÿÿ8¾â«Ÿ2J$75ecc3d4-dadf-49de-88fd-dfe78532ced5
+“
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ş””Ûüÿÿÿÿ8¾â«Ÿ2J$2445020e-5605-4c9f-8470-3de6dee346c4
+i	java:S131""Add a default case to this switch.(Ş””Ûüÿÿÿÿ8¾â«Ÿ2J$aa86ec08-a6cc-4995-94db-d50b8bc0dfe8
+k	java:S108")Either remove or fill this block of code.(™§Ãã8¾â«Ÿ2J$133c22f6-4066-471f-a9ef-c6d47f753490
+
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(™§Ãã8¾â«Ÿ2J$55108b0a-25a5-4de2-8285-881a4b7bc816
+d	java:S131""Add a default case to this switch.(™§Ãã8¾â«Ÿ2J$66e8dbf9-f7dd-4410-8d48-db778d9a210e
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(€¿İ×üÿÿÿÿ8¾â«Ÿ2J$81b4a2c6-c3e4-4fc1-aa66-8bbcfbaecd81
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¾â«Ÿ2J$df8d6102-824c-4cc6-8317-c25396183309
+p	java:S108")Either remove or fill this block of code.(ÛÊÚÕÿÿÿÿÿ8ØÖ«Ÿ2J$5900de9d-6059-4d20-bbf8-023bf16fb070
+“
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ÛÊÚÕÿÿÿÿÿ8İÖ«Ÿ2J$5c70e691-173b-41f1-9427-02f746d77540
+i	java:S131""Add a default case to this switch.(ÛÊÚÕÿÿÿÿÿ8İÖ«Ÿ2J$3e150a04-81d0-4e97-b14a-d2be8acc196a

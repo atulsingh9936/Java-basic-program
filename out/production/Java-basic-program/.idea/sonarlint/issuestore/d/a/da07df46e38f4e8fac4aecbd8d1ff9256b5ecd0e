@@ -1,6 +1,20 @@
 
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úÂÆ8…øğ2
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş¬Â8…øğ2
-^
-java:S4973"<Strings and Boxed types should be compared using "equals()".(«ç¤Âÿÿÿÿÿ8…øğ2
-L	java:S106"+Replace this use of System.out by a logger.(«ç¤Âÿÿÿÿÿ8•øğ2
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úÂÆ8øÀµ¼2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş¬Â8øÀµ¼2
+]
+java:S1854:"@Remove this useless assignment to local variable "modifiedname".(·Æ¾å8ûÀµ¼2
+X	java:S125"<This block of commented-out lines of code should be removed.(ªìğû8ûÀµ¼2
+X	java:S125"<This block of commented-out lines of code should be removed.(ªìğû8ûÀµ¼2
+]	java:S125"<This block of commented-out lines of code should be removed.(‘Âà†úÿÿÿÿ8üÀµ¼2
+X	java:S125("<This block of commented-out lines of code should be removed.(‘ø·³8üÀµ¼2
+X	java:S125."<This block of commented-out lines of code should be removed.(“„¹8üÀµ¼2
+]	java:S1250"<This block of commented-out lines of code should be removed.(‡Àıûÿÿÿÿ8üÀµ¼2
+N
+java:S1481:"1Remove this unused "modifiedname" local variable.(·Æ¾å8üÀµ¼2
+F	java:S106A"+Replace this use of System.out by a logger.(©ÌéC8üÀµ¼2
+]	java:S125;"<This block of commented-out lines of code should be removed.(·ñĞ­şÿÿÿÿ8üÀµ¼2
+F	java:S106B"+Replace this use of System.out by a logger.(¸ÌÌn8ıÀµ¼2
+G	java:S106C"+Replace this use of System.out by a logger.(˜ÔÙÀ8ıÀµ¼2
+L	java:S106D"+Replace this use of System.out by a logger.(‹ºŠøÿÿÿÿ8şÀµ¼2
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8şÀµ¼2
