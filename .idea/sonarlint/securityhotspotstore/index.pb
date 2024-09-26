@@ -341,3 +341,5 @@ T
 $Arrays/Interview_Minimum_number.java,6\a\6a404efecd6f7c5f7aa3fdfefdb1a67aad989d96
 P
  Arrays/Array_Maximum_number.java,b\9\b9dbfbc267a561c15baca0e190c764effdebc147
+C
+Arrays/array_2.java,2\3\233ff65bda50975bd38f8f7f220d09188b4b0ed2
