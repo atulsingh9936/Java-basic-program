@@ -343,3 +343,13 @@ P
  Arrays/Array_Maximum_number.java,b\9\b9dbfbc267a561c15baca0e190c764effdebc147
 C
 Arrays/array_2.java,2\3\233ff65bda50975bd38f8f7f220d09188b4b0ed2
+N
+Arrays/Printing_of_arrays.java,b\2\b2cf17ea517983ba03d5018397e620f6bb6ca000
+K
+Arrays/Duplicate_value.java,f\8\f83f427b33ead6181f07a6e92059e135ede0fabe
+C
+Arrays/arrys_3.java,4\c\4cc5015949e54f5d91455fa2ef43cef27dbb0b16
+H
+Arrays/String_arrys.java,7\1\7137bce2b7c362cb9c7564406457570a4b0b4043
+A
+Arrays/marks.java,5\c\5c54b6d16dfcc4f85caa57ebe54297ad86e6906f
