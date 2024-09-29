@@ -1,0 +1,9 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºÀ˜üúÿÿÿÿ8äÍ‡ò£2J$6f27f85b-9849-4da6-83d5-c8085b7b79f9
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶©ò™ıÿÿÿÿ8äÍ‡ò£2J$6cbab080-4b56-44df-9f53-f4e44a9f2e24
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¼€öşÿÿÿÿ8ïÊò£2J$bef76c2a-1929-4cfe-b07f-4d9d7885d6b8
+r	java:S106"+Replace this use of System.out by a logger.(¼€öşÿÿÿÿ8ïÊò£2J$0766318c-6bfc-4f82-9236-9af085e64219
+r	java:S106"+Replace this use of System.out by a logger.(º¢ñ½ıÿÿÿÿ8îŸò£2J$d21b3ffe-bc43-464b-86f1-43263cf3eade
+X	java:S125"<This block of commented-out lines of code should be removed.(°¨âÜ8ğ’ ò£2
+r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Ã¼–ò£2J$74b4bc56-2933-48ae-b06a-c2446125a6b0

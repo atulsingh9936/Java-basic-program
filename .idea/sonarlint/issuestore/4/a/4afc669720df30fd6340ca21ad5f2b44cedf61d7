@@ -1,0 +1,16 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Æ¹Žíþÿÿÿÿ8¿¢àæ£2
+d
+java:S1192"GDefine a constant instead of duplicating this literal "pramod" 3 times.(•Ó½ô8¿¢àæ£2
+X
+java:S1854"6Remove this useless assignment to local variable "s2".(–€’¤üÿÿÿÿ8¿¢àæ£2
+S
+java:S1854"6Remove this useless assignment to local variable "s1".(•Ó½ô8¿¢àæ£2
+D
+java:S1481"'Remove this unused "s1" local variable.(•Ó½ô8¿¢àæ£2
+B
+java:S2129" Remove this "String" constructor(–€’¤üÿÿÿÿ8Ê¢àæ£2
+I
+java:S1481"'Remove this unused "s2" local variable.(–€’¤üÿÿÿÿ8Û¢àæ£2
+]	java:S125"<This block of commented-out lines of code should be removed.(ÜºšÑüÿÿÿÿ8Û¢àæ£2
+G	java:S106"+Replace this use of System.out by a logger.(’ýÙ†8Û¢àæ£2

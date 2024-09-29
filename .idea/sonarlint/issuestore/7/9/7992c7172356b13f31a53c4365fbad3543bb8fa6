@@ -1,0 +1,7 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–¦ğŒ8ñ²„ê£2J$ba906424-b0e9-4c12-9724-144bb63be30b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶©ò™ıÿÿÿÿ8ñ²„ê£2J$798236d0-3a93-4767-8435-db1319ad253a
+ˆ
+java:S4143"FVerify this is the index that was intended; it was already set before.(‹Äæ8ñ²„ê£2J$6c122733-3475-4904-ac5d-ae5f9c44b41e
+r	java:S106"+Replace this use of System.out by a logger.(•÷üşÿÿÿÿ8ñ²„ê£2J$4d14b383-20e8-4ae1-aaaf-56b41afc8084
+]	java:S125"<This block of commented-out lines of code should be removed.(ı›™Šÿÿÿÿÿ8È¡…ê£2

@@ -1,0 +1,9 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ’´N8«Àç£2J$cebb08b4-c0ff-4f8c-9765-be777242dcbb
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ…àÈüÿÿÿÿ8«Àç£2J$8099eed6-48d6-4295-9d0c-d491753b87bd
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¡8«Àç£2J$1676207c-f708-48bc-b98b-82cc8f2adb94
+¢
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆ¸¶§8«Àç£2J$9e4adcda-1fe5-4912-9589-01eef6723eff
+r	java:S106"+Replace this use of System.out by a logger.(ö¯áúÿÿÿÿ8«Àç£2J$53696152-661d-4051-ae56-7df1a190fbce
+m	java:S106"+Replace this use of System.out by a logger.(İ•±Ë8«Àç£2J$73345fd1-521b-458d-bc3f-f9cb2e80803e
+l	java:S106"+Replace this use of System.out by a logger.(“½Âg8«Àç£2J$01a3edbe-5e4c-46c8-8c4e-d83eaa2c94de
