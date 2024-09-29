@@ -353,3 +353,31 @@ H
 Arrays/String_arrys.java,7\1\7137bce2b7c362cb9c7564406457570a4b0b4043
 A
 Arrays/marks.java,5\c\5c54b6d16dfcc4f85caa57ebe54297ad86e6906f
+M
+Arrays/printing_of_marks.java,c\3\c318b17be16f3c7fe4b305a59aa8641a427ac6c0
+C
+Arrays/Marks_2.java,f\9\f94729e1dd2f2a7ce700bbccd480b6bbdf3a5008
+K
+Arrays/double_an_array.java,7\0\70336546bea79620e8f1f14147d9d6e6b5257887
+F
+Arrays/Max_salary.java,a\3\a39942a3eaa532bc2a69598792adae8b8dc26352
+O
+Arrays/arry_multiplication.java,9\6\96ec8850c00ae78e88f986b21aab5775153698f3
+D
+Arrays/array_2d.java,6\d\6d4902d108398261f6480639dca9bcd6e8c9e315
+F
+Arrays/Array_2d_2.java,c\7\c706ab88e8930798363a3b6b1bf0d0ead39e5fc1
+F
+Arrays/Array_2d_3.java,b\4\b434724f22feacc3fde3672b177bc68b3d50daca
+C
+Arrays/array__.java,c\d\cdd5fd4dd0f6d425567c999025c8265bb1627298
+D
+Arrays/Array___.java,2\e\2e62687ea659a9a530ba8833976088fcda4de4f7
+G
+Arrays/array_2d___.java,d\7\d7057136f692b723287fdabc53587cddc9049e7c
+O
+Arrays/Maximum_of_2d_array.java,b\e\bec34f07de006f46e7352f36a475785fcfe66d32
+B
+Arrays/String.java,9\8\98566123f8f096bc940dba68f36afe30ac8ac99f
+K
+Arrays/string_practice.java,6\c\6c7c2fe79542d1e9d6365074bd6de6050e85b5c5
