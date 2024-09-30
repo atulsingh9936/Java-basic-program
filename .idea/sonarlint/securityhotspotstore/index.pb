@@ -413,3 +413,7 @@ z
 JJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/mutli_dimensional_array.java,5\4\542f4dbdc96dfea1f548c8aac22586f1ebcaa34a
 o
 ?JAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Object_array.java,8\c\8c0544d413b1b96843fa48f98885cfeb890ba41e
+w
+GJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/sum_of_element_array.java,8\5\851a7af8d8e1efac53d2c11e4a170784ac64fc15
+u
+EJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/print_even_and_odd.java,a\8\a889b85f2c074fd034157c26a0fb1f1f56271ca1
