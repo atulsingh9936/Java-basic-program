@@ -431,3 +431,7 @@ w
 GJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Take_input_from_user.java,f\8\f8f39f752123639b3caf54b23ab3456b9cfa9218
 †
 VJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Reading_and_writing_data_into_array.java,c\c\cced930130c7d47014c97ccc55d47dcb32caf200
+u
+EJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Bubble_short_array.java,0\0\008b97391268d486529587f7afbb9991b9d73152
+‚
+RJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Search_an_element_Linear_Search.java,2\e\2efedaed1b4156b34bf0330f4d8b940f31455945
