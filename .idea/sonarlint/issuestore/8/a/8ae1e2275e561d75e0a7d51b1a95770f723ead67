@@ -1,0 +1,11 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Œ«Ëİ8¿Ô˜¥2J$d90b019e-e29e-4c4d-a256-dd7b5c48b065
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ç‚ù8¿Ô˜¥2J$57a1726d-d4ee-46d1-b8f4-318ef3488830
+w
+java:S3740	"/Provide the parametrized type for this generic.(Œşï½øÿÿÿÿ8¿Ô˜¥2J$21c571b9-58b2-41c3-8933-2da5f76b754d
+o
+java:S1125"'Remove the unnecessary boolean literal.(Ô–îùÿÿÿÿ8ç×˜¥2J$20bc51a3-1560-43a9-a3e5-2b9c4a1598da
+m	java:S106"+Replace this use of System.out by a logger.(µÕ«·8ç×˜¥2J$100eb2c1-2e0c-4463-9dac-5837062374dc
+j
+java:S1125"'Remove the unnecessary boolean literal.(ûÅŸ8‘âá˜¥2J$7622de41-be30-42bf-8b9f-9c6705e57923
+r	java:S106"+Replace this use of System.out by a logger.(¤¹®ßüÿÿÿÿ8’âá˜¥2J$429f6053-a92a-41d0-bb8e-d087fde92f2e

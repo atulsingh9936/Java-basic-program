@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ϊυ•8φ‘φ¤2J$cd7a24fe-f1dd-40f2-a142-ef2acbcd67ea
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Η‚ω8φ‘φ¤2J$62450b67-3bfb-4346-a288-3e4826cba3c9
+
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(Ή®°Η8φ‘φ¤2J$62a82a18-b7d7-4352-b1cb-daca6571e436
+m	java:S106
+"+Replace this use of System.out by a logger.(ρ€χ8”φ‘φ¤2J$6ea4c884-db22-4dd9-a8ec-99e6d9d5e32e
+j
+java:S1125"'Remove the unnecessary boolean literal.(ϋΕ8”φ‘φ¤2J$760d0c43-b5f1-4e41-b252-8baec0ba121d
+r	java:S106"+Replace this use of System.out by a logger.(Ότ’κόÿÿÿÿ8Ιθ’φ¤2J$ca6371c4-fceb-4d6d-a9ef-06e5637334e6

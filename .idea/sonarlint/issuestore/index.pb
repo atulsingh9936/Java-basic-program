@@ -435,3 +435,11 @@ u
 EJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Bubble_short_array.java,0\0\008b97391268d486529587f7afbb9991b9d73152
 ‚
 RJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Search_an_element_Linear_Search.java,2\e\2efedaed1b4156b34bf0330f4d8b940f31455945
+z
+JJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Missing_number_in_array.java,a\8\a807bd9e952f37abda0f1da8e5ec14278230548d
+u
+EJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/duplicate_in_array.java,d\4\d4da65fe9da615b5854730d5afbc99c1aec82a27
+t
+DJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/duplicate_hashset.java,8\a\8ae1e2275e561d75e0a7d51b1a95770f723ead67
+w
+GJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Max_and_min_in_array.java,c\8\c848b4a5c23adca9fcbb7222301852e1754c201e
