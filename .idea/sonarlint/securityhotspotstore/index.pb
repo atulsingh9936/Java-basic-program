@@ -443,3 +443,5 @@ t
 DJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/duplicate_hashset.java,8\a\8ae1e2275e561d75e0a7d51b1a95770f723ead67
 w
 GJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Max_and_min_in_array.java,c\8\c848b4a5c23adca9fcbb7222301852e1754c201e
+q
+AJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Second_largest.java,d\5\d5a9da97ed4299a7ba5767a4b63b088f66805445

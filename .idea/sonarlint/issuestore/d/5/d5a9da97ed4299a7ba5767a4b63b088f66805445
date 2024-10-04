@@ -1,0 +1,15 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•ÒŒÓ8ù÷†Æ¥2J$07ea9678-4186-475f-9958-684acc0229c5
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ç‚ù8ù÷†Æ¥2J$6f3f83bf-78cd-4fe2-ac24-4a97941cf5e7
+ƒ
+java:S1854"ARemove this useless assignment to local variable "secondlargest".(†ìİ`8û÷†Æ¥2J$a7d1e8dc-1112-482f-97a9-10cada780eb0
+~
+java:S1854";Remove this useless assignment to local variable "largest".(”…¸8û÷†Æ¥2J$54a4f6f3-ed95-45d8-9254-02245e6d6161
+x
+java:S1854"5Remove this useless assignment to local variable "a".(š”Ú“8û÷†Æ¥2J$ae49fb66-cbb0-4e3e-aec2-a3ab60b77cd3
+i
+java:S1481"&Remove this unused "a" local variable.(š”Ú“8ü÷†Æ¥2J$3a33d1b6-c8bb-4039-95e4-3d2eaaba9b7b
+o
+java:S1481",Remove this unused "largest" local variable.(”…¸8ü÷†Æ¥2J$0278d62d-6a98-4a8a-adfb-af2635e2496f
+t
+java:S1481"2Remove this unused "secondlargest" local variable.(†ìİ`8ü÷†Æ¥2J$781f456e-5df4-4027-8e22-6bd107e2365f
