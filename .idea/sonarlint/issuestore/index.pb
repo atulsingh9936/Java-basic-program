@@ -461,3 +461,13 @@ s
 CJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Remove_duplicacy.java,1\c\1c45598e15621fdc94d44a6b14afa4f6f0cff822
 
 OJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/dupliaccay_remove_by_hashset.java,1\c\1ce711413feb9d88f69dcff7d7a7f617c507b58a
+z
+JJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/even_an_odd_in_a_number.java,a\6\a6a27ef74dd916f18b3f5458da35dc00ff1eaefb
+Å
+QJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Count_of_even_odd_number_array.java,1\e\1edd31edb5d68f36662fec2a91c3d7bcc7bd68f5
+}
+MJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Printing_even_an_odd_Array.java,1\f\1f28328c85cf363488ee942cc2c72ab156b81789
+x
+HJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Cjheck_array_equality.java,3\f\3fa3d8b11b09fc89ed9e829b2f11100e8f94e2c9
+w
+GJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Check_array_equality.java,6\6\6677fe0a2e30d077ec52f8f818c57b2bf660bc02

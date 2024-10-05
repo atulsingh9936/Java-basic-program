@@ -1,0 +1,38 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™η¶ρϊÿÿÿÿ8Ίήπ££2J$9515ff08-ead6-4f06-8714-79e2b05f75ff
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ωβκώÿÿÿÿ8Ίήπ££2J$09d1380b-5c8f-4d0c-a384-76441dc8df70
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΧΔδΜ8Ίήπ££2J$81455708-ebf0-4cb4-aab9-b68f6362fbcd
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ενύÿÿÿÿ8Ίήπ££2J$6a35bef0-403e-4fd4-9315-cededb9190c9
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰©ή…ύÿÿÿÿ8Ίήπ££2J$8d4539cf-a837-4c76-a356-19fe7ccf3366
+	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Είχχϋÿÿÿÿ8Ίήπ££2J$818b7dbf-0f64-4b26-a4ff-21090550a257
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”±’Γ8Ίήπ££2J$f4112bc9-1aa5-4f24-ba4f-ba7c5670a191
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ύ“τ©8Ίήπ££2J$ab4e30d0-53b6-47fe-bcc8-ebb9fade4e18
+~
+java:S1854";Remove this useless assignment to local variable "c_array".(”±’Γ8Ίήπ££2J$9b93dd36-e80a-4c4f-9b3e-f082b1d65c54
+ƒ
+java:S1854
+";Remove this useless assignment to local variable "b_array".(Είχχϋÿÿÿÿ8Ίήπ££2J$cc2ab5ba-c1e2-4927-b660-618ed8048523
+ƒ
+java:S1854";Remove this useless assignment to local variable "d_array".(‰©ή…ύÿÿÿÿ8Ίήπ££2J$eabb1050-7d8a-4a1d-bc49-598cd847ca0c
+ƒ
+java:S1854";Remove this useless assignment to local variable "f_array".(®Ενύÿÿÿÿ8Ίήπ££2J$01368a7a-af8f-4cc4-ae35-88f5134dc728
+~
+java:S1854";Remove this useless assignment to local variable "l_array".(ΧΔδΜ8Ίήπ££2J$95aa5682-606e-4957-8d29-a6985b46aca0
+…
+java:S1854"=Remove this useless assignment to local variable "int_array".(Ωβκώÿÿÿÿ8Ίήπ££2J$862223a8-71f0-464d-8e06-1158b16420c5
+v
+java:S1481".Remove this unused "int_array" local variable.(Ωβκώÿÿÿÿ8Ίήπ££2J$67148bdb-39ff-4ce1-89e6-efdfe3047a99
+o
+java:S1481",Remove this unused "l_array" local variable.(ΧΔδΜ8Ίήπ££2J$bd2a5d8c-9370-425f-90ed-e34e64ca0fae
+t
+java:S1481",Remove this unused "f_array" local variable.(®Ενύÿÿÿÿ8Ίήπ££2J$051e5253-4d2f-4bb1-97d1-4a0886eaabfe
+t
+java:S1481",Remove this unused "d_array" local variable.(‰©ή…ύÿÿÿÿ8Ίήπ££2J$528162fb-df4f-4c47-8834-78464b69711c
+t
+java:S1481
+",Remove this unused "b_array" local variable.(Είχχϋÿÿÿÿ8Ίήπ££2J$25476761-1fcc-4552-8368-266adf12e574
+o
+java:S1481",Remove this unused "c_array" local variable.(”±’Γ8Ίήπ££2J$22a5bef5-50e4-413b-b701-d02649e630ed
+m	java:S106"+Replace this use of System.out by a logger.(Εΐ†Ώ8ζΎρ££2J$57396966-d9b6-41b3-871e-6326f9569fef
+r	java:S106"+Replace this use of System.out by a logger.(ΜΠέ–ϋÿÿÿÿ8Νªσ££2J$ba3de016-7edb-497e-8a50-6d031ed405bf

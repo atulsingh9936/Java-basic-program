@@ -1,0 +1,14 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×§Ûüúÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(„ÇšŒüÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "rev".(­—Ì¢
+>
+java:S1481"(Remove this unused "rev" local variable.(­—Ì¢
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÿ¶ù‰
+Q	java:S125"<This block of commented-out lines of code should be removed.(ñÉô¹
+@	java:S106"+Replace this use of System.out by a logger.(ï˜©â
+P	java:S125"<This block of commented-out lines of code should be removed.(Ž‹Î

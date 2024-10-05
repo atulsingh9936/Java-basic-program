@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚ù£8¾©¢í¥2J$5158bc1e-335a-48f7-9523-ba8216899dcc
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ç‚ù8¾©¢í¥2J$c14cf4e7-d918-4206-b760-d1d80c1e89f4
+m
+java:S1197"*Move the array designators [] to the type.(Ëùñã8Á©¢í¥2J$3327028c-7e06-448c-a54f-27d809d7225c
+r	java:S106"+Replace this use of System.out by a logger.(Ä¶ÜÂùÿÿÿÿ8Á©¢í¥2J$e5c0b9a1-8204-40fe-88d3-f1d811ee3834
+m	java:S106	"+Replace this use of System.out by a logger.(ÆÅ‡˜8Â©¢í¥2J$58035ab2-4c94-409b-9422-7ca6d172f469
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8òÊ¢í¥2J$9663d39b-bc38-40d2-9a0f-a341f1129a5d
+l	java:S106"+Replace this use of System.out by a logger.(„‰ñ08Ç¾¨í¥2J$fee13a06-4526-4ee5-be83-a39d89cca72a
+m	java:S106"+Replace this use of System.out by a logger.(ÆÅ‡˜8é©í¥2J$2984c1b8-50ac-4192-9c18-b39a37e22eae
