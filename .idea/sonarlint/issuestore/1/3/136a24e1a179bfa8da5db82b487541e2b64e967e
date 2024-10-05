@@ -1,0 +1,14 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÜÀ‡øÿÿÿÿ8‹œÚŞ¥2J$96e32b22-50b9-483b-98bc-b71a47be2d0b
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–€ô©8‹œÚŞ¥2J$48ffc697-5cfc-4c7d-868d-61bc8780bdec
+˜	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‚øöøÿÿÿÿ8‹œÚŞ¥2J$5842b264-97fc-43c5-8606-8f52fb235509
+˜	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¨…¶úÿÿÿÿ8‹œÚŞ¥2J$97e82877-05f6-4e6b-a716-aa3faa5782a9
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ç‚ù8‹œÚŞ¥2J$d4a474d2-f7c5-498d-8769-0d0508c05a66
+m
+java:S1197"*Move the array designators [] to the type.(¼É¬Ô8œÚŞ¥2J$28ef0048-8bdd-4245-afaa-480570c6b618
+r
+java:S1197"*Move the array designators [] to the type.(ıú×Ãşÿÿÿÿ8œÚŞ¥2J$b4d65003-f671-433e-ba75-a4e33ce75379
+¡
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¨òÆüÿÿÿÿ8œÚŞ¥2J$c910d101-15fc-4f8e-9bef-c3ac170c76a9
+r	java:S106"+Replace this use of System.out by a logger.(ºÚğ¤ûÿÿÿÿ8ÚÆßŞ¥2J$760882f5-7e20-4f19-ad71-2fc1bcd185bf
