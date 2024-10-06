@@ -1,0 +1,14 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û½ÜÍ8±ù¿ï¥2J$60f1b9ed-47c7-4d07-9b70-a5a8e630ed95
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Ç‚ù8±ù¿ï¥2J$98568fb1-1b39-42bd-8227-37e70f7f75fc
+r
+java:S1197"*Move the array designators [] to the type.(´¤ÿÿÿÿÿ8³ù¿ï¥2J$c935eb72-6723-45dc-aeeb-612531d1933e
+r
+java:S1197"*Move the array designators [] to the type.(”Óã‘øÿÿÿÿ8³ù¿ï¥2J$0b701c08-8ad1-48ce-ab95-def9fd26b17e
+~	java:S125	"<This block of commented-out lines of code should be removed.(ë×á©8³ù¿ï¥2J$1daed6a7-c809-4294-b347-8ea0e4e451d4
+i
+java:S1125"'Remove the unnecessary boolean literal.(¼™ñ8´ù¿ï¥2J$563520e4-aa86-4a4c-bcc0-9720e9b8d163
+m	java:S106"+Replace this use of System.out by a logger.(¤ƒ«¶8µù¿ï¥2J$3a821e03-4eba-49f8-af76-df2db1c67115
+m	java:S106!"+Replace this use of System.out by a logger.(ÔÌ–ù8µù¿ï¥2J$14c0a5d8-62d1-4000-8ae8-91798dedb271
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8µù¿ï¥2J$8d5c3746-773d-4dbe-9f2e-a69af0cabd4e

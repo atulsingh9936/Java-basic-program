@@ -1,6 +1,6 @@
 
-‡	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Å«‹SJ$7d676605-3380-4e5e-8686-5db9b81de93a
+‡	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Å«‹SJ$f5d2f1cb-6c84-42c1-b350-a270b439d46e
 V
-java:S1220""Move this file to a named package.J$c980a800-cdd8-46ac-99c3-3861943f5ac3
-w	java:S125"<This block of commented-out lines of code should be removed.(ò¯Å²J$0bce514b-efb5-44ae-aeb0-e33d81007006
-f	java:S106"+Replace this use of System.out by a logger.(ß©‡«J$21b0ca41-cf36-4c9c-893b-8242dff7cd69
+java:S1220""Move this file to a named package.J$c3a88f04-cbca-4e2a-bd78-93725d2cc9a2
+w	java:S125"<This block of commented-out lines of code should be removed.(ò¯Å²J$f2dfd71b-b09e-441b-8dde-4d71a16e6c99
+f	java:S106"+Replace this use of System.out by a logger.(ß©‡«J$da8a9d0c-4889-41f9-802c-cacedb5f951b

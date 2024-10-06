@@ -1,11 +1,11 @@
 
-‡	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ï¦Õ{J$955813e7-6aa4-4551-9f27-7c5635e55768
+‡	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ï¦Õ{J$072625f9-868f-4a29-922f-9e7be9bb5374
 V
-java:S1220""Move this file to a named package.J$c78ed224-09c7-4406-ac62-2485508653ae
-e	java:S106"+Replace this use of System.out by a logger.(‡õßJ$38d870ae-4c22-4955-8e5f-6a48617690af
+java:S1220""Move this file to a named package.J$9ccc63b2-9626-43d7-8cec-82b66e29b62d
+e	java:S106"+Replace this use of System.out by a logger.(‡õßJ$8803ff0f-6d08-417d-be00-f6eaf1709de3
 v	java:S125
-"<This block of commented-out lines of code should be removed.(ñ«š/J$e1369311-4827-4113-b4c6-5eb9a935b433
-w	java:S125 "<This block of commented-out lines of code should be removed.(§ÃØÉJ$c3a72d57-8043-42ff-8890-b9756daed724
-f	java:S106,"+Replace this use of System.out by a logger.(Ã€ª£J$5f59d795-fd80-4b26-b265-d3ba05e17cbb
-f	java:S106."+Replace this use of System.out by a logger.(éª¢J$785be66c-adca-4abf-a54b-c45d8609ab31
-f	java:S1065"+Replace this use of System.out by a logger.(¼ü¥ÈJ$8a95a955-0ae8-4edf-a478-c08f05cdeb5d
+"<This block of commented-out lines of code should be removed.(ñ«š/J$688acfb8-0bcf-415a-8412-4956cff24fc8
+w	java:S125 "<This block of commented-out lines of code should be removed.(§ÃØÉJ$0e994301-7df5-43ab-95e1-48ee3bc19df4
+f	java:S106,"+Replace this use of System.out by a logger.(Ã€ª£J$d2993b22-ee8c-4ecc-a0f0-d764aa2dba07
+f	java:S106."+Replace this use of System.out by a logger.(éª¢J$c611d15f-69bd-454f-8c70-8a19c5804c98
+f	java:S1065"+Replace this use of System.out by a logger.(¼ü¥ÈJ$38d814fa-572f-4d7a-9fce-85bbc35558fd

@@ -353,8 +353,6 @@ H
 Arrays/String_arrys.java,7\1\7137bce2b7c362cb9c7564406457570a4b0b4043
 A
 Arrays/marks.java,5\c\5c54b6d16dfcc4f85caa57ebe54297ad86e6906f
-M
-Arrays/printing_of_marks.java,c\3\c318b17be16f3c7fe4b305a59aa8641a427ac6c0
 C
 Arrays/Marks_2.java,f\9\f94729e1dd2f2a7ce700bbccd480b6bbdf3a5008
 K
@@ -377,10 +375,6 @@ G
 Arrays/array_2d___.java,d\7\d7057136f692b723287fdabc53587cddc9049e7c
 O
 Arrays/Maximum_of_2d_array.java,b\e\bec34f07de006f46e7352f36a475785fcfe66d32
-B
-Arrays/String.java,9\8\98566123f8f096bc940dba68f36afe30ac8ac99f
-K
-Arrays/string_practice.java,6\c\6c7c2fe79542d1e9d6365074bd6de6050e85b5c5
 C
 String_Reverse.java,8\9\89bae9f6f427130f2ca4d81a216369a490171fdc
 F
@@ -407,8 +401,6 @@ RJAVA_PROGRAMS_04_09_2024/Code_with_harry_array_practice_sets/Reverse_an_array.j
 RJAVA_PROGRAMS_04_09_2024/Code_with_harry_array_practice_sets/Maximum_in_array.java,4\2\4261c18cb8bdc2969d2a2ae4d8fd8b15cde1c75b
 
 OJAVA_PROGRAMS_04_09_2024/Code_with_harry_array_practice_sets/array_sorting.java,e\e\ee89e7d8548ae1b5e96beb27b61d56d051d45f05
-z
-JJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/mutli_simensional_array.java,b\b\bb66c8a816279bdfcb1992a9df8a3959c3bab548
 z
 JJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/mutli_dimensional_array.java,5\4\542f4dbdc96dfea1f548c8aac22586f1ebcaa34a
 o
@@ -445,8 +437,6 @@ w
 GJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Max_and_min_in_array.java,c\8\c848b4a5c23adca9fcbb7222301852e1754c201e
 q
 AJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Second_largest.java,d\5\d5a9da97ed4299a7ba5767a4b63b088f66805445
-q
-AJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Array_revderse.java,2\1\21d4b399385d10bb98fe57ad6622c3cee9beb164
 p
 @JAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Array_reverse.java,c\4\c47b9fd622fd9b453c0112a563bd7130930785fa
 q
@@ -467,3 +457,7 @@ JJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/even_an_odd_in_a_number.java,a\6
 QJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Count_of_even_odd_number_array.java,1\e\1edd31edb5d68f36662fec2a91c3d7bcc7bd68f5
 }
 MJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Printing_even_an_odd_Array.java,1\f\1f28328c85cf363488ee942cc2c72ab156b81789
+w
+GJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Check_array_equality.java,6\6\6677fe0a2e30d077ec52f8f818c57b2bf660bc02
+i
+9JAVA_PROGRAMS_04_09_2024/Basic_programs/prime_number.java,3\f\3fdd7422261b44252314fa28be14d16537a3b57a
