@@ -461,3 +461,7 @@ w
 GJAVA_PROGRAMS_04_09_2024/sdet_qa_practice_set/Check_array_equality.java,6\6\6677fe0a2e30d077ec52f8f818c57b2bf660bc02
 i
 9JAVA_PROGRAMS_04_09_2024/Basic_programs/prime_number.java,3\f\3fdd7422261b44252314fa28be14d16537a3b57a
+f
+6JAVA_PROGRAMS_04_09_2024/Basic_programs/Leap_year.java,e\7\e790e97dffad582cbf77eb5f3210234bb9b52a6d
+b
+2JAVA_PROGRAMS_04_09_2024/Basic_programs/table.java,b\0\b0d448b30af7c52bc01bc5e89f0b2beff6160148
